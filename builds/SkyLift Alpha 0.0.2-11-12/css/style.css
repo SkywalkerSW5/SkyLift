@@ -1,0 +1,21 @@
+body {
+	background-image: url('../img/background.jpg');
+	}
+font1 {
+	font-family: 'Sans Serif';
+	src: url('./font/medium.otf');
+	color: white;
+	font-size: 40px;
+	}
+font2 {
+	font-family: 'Sans Serif';
+	src: url('./font/medium.otf');
+	font-size: 15px;
+	color: white;
+	}
+	dock {
+	position: fixed;
+	bottom: 0px;
+	
+}
+
