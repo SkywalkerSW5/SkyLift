@@ -1,5 +1,5 @@
 body {
-	background-image: url('../img/background.jpg');
+	background-image: url('../img/background2.jpg');
 	}
 font1 {
 	font-family: 'Sans Serif';
@@ -19,3 +19,21 @@ font2 {
 	
 }
 
+mid {
+  position: fixed;
+  top: 40%;
+  left: 40%;
+
+  margin-top: -100px;
+  margin-left: -100px;
+
+
+}
+rfont {
+	font-family: 'Sans Serif';
+	src: url('./font/medium.otf');
+	font-size: 15px;
+	color: white;
+	right: 0;
+	
+	}
